@@ -1,0 +1,6 @@
+RosBE-Unix-2.2.1/
+RosBE/
+*.tar.bz2
+rosbe-build.log
+reactos*/
+*result*
